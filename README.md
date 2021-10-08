@@ -2,7 +2,7 @@
 
 [![FivexL](https://releases.fivexl.io/fivexlbannergit.jpg)](https://fivexl.io/)
 
-# Name of terraform module
+# Name of the terraform module
 Here you can put a description of the module. 
 
 ```hlc
